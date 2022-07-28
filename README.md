@@ -1,4 +1,4 @@
-Just a little testing of api's
+Just a little testing of DB'S
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -114,7 +114,6 @@ webencodings==0.5.1
 Werkzeug==2.1.2
 widgetsnbextension==3.6.0
 wrapt==1.14.1
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,14 +121,9 @@ wrapt==1.14.1
 Django virtual environment:
 
 asgiref==3.5.2
-certifi==2022.6.15
-charset-normalizer==2.0.12
-Django==4.0.5
-idna==3.3
-requests==2.28.0
+Django==4.0.6
 sqlparse==0.4.2
 tzdata==2022.1
-urllib3==1.26.9
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
